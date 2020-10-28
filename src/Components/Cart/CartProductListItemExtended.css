@@ -1,0 +1,35 @@
+.cart-product-list-item-description {
+    margin: 25px 0;
+    padding: 15px;
+    border: 1px dotted;
+    border-radius: 10px;
+    color: black;
+}
+.cart-product-list-item-description img {
+    display: block;
+    margin: 0 auto;
+}
+.cart-extended-name {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.cart-extended-price {
+ font-size: 13px;
+ font-style: italic;
+ margin-bottom: 10px;
+}
+.bold {
+    font-weight: bold;
+}
+.cart-extended-sum {
+    font-size: 16px;
+    text-align: right;
+}
+.sum-price {
+    font-size: 20px;
+    color: #3366cc;
+}
+.cart-product-list-item-description {
+    background: white;
+}
