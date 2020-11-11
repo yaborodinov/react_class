@@ -11,6 +11,8 @@ import CartProductList from "../../../../src/Components/Cart/CartProductList"
 
 
 
+
+
 const Cart = ({
     productsInCart,
 }) => {
@@ -30,6 +32,8 @@ const Cart = ({
         </div>
     )
 }
+
+
 
 const mapStateToProps = (state) => ({
     productsInCart: state.productsInCart
